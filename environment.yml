@@ -1,0 +1,15 @@
+name: sds_viz
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - openpyxl
+  - python
+  - pandas
+  - scipy
+  - seaborn
+  - seaborn-base
+  - statsmodels
+  - lxml
+  - scikit-learn
